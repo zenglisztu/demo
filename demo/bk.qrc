@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="sgs">
+    <file>sgs.jpg</file>
+  </qresource>
+</RCC>
